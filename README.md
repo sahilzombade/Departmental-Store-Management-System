@@ -1,0 +1,41 @@
+# Departmental-Store-Management-System
+A Project to manage the daily transactions and maintain a database of a Departmental Store with Python at frontend and mysql at the backend
+
+### SnapShots
+
+####  A demo run of the entire project  
+
+![image](https://user-images.githubusercontent.com/101285339/220985996-08881fbc-062e-45f9-a343-d08cdfc3e28f.png)
+![image](https://user-images.githubusercontent.com/101285339/220986178-41a0a8d1-7359-4006-a30f-77d0700784d8.png)
+![image](https://user-images.githubusercontent.com/101285339/220986228-5c8dcbab-b294-4c71-a0cc-6c88821db018.png)
+![image](https://user-images.githubusercontent.com/101285339/220986277-e3c8d97e-31a0-4e9f-8210-4baed9d10a71.png)
+![image](https://user-images.githubusercontent.com/101285339/220986326-eb3a062c-0a77-44cb-a012-f342f544b87d.png)
+![image](https://user-images.githubusercontent.com/101285339/220986355-f77f9067-283f-4539-9ff9-cd636aa64147.png)
+![image](https://user-images.githubusercontent.com/101285339/220986381-b74d0ff8-9867-41c3-b357-7780ca851e5c.png)
+![image](https://user-images.githubusercontent.com/101285339/220986414-a2625f92-5a1a-4dad-aad9-992926104319.png)
+![image](https://user-images.githubusercontent.com/101285339/220986513-e8e29b82-86a8-4f88-a05c-f3daf131c50b.png)
+![image](https://user-images.githubusercontent.com/101285339/220986549-8635ec61-5189-4962-9090-f6f7bc28477d.png)
+![image](https://user-images.githubusercontent.com/101285339/220986586-65bc714a-dc89-431e-ab95-d1113175e0b5.png)
+![image](https://user-images.githubusercontent.com/101285339/220986632-b4906215-a1d2-45fc-8fa0-7f16d83bd918.png)
+![image](https://user-images.githubusercontent.com/101285339/220986662-1cd6f5fd-24a0-4987-baee-2b04f9e0fa7a.png)
+![image](https://user-images.githubusercontent.com/101285339/220986713-18317009-4190-4008-a48b-744ce8ce3df5.png)
+![image](https://user-images.githubusercontent.com/101285339/220986738-deaaa196-ff20-4046-a427-6060b1d0b2b2.png)
+![image](https://user-images.githubusercontent.com/101285339/220986785-7e1365a0-9469-4fc6-9a24-e6c4afd936ad.png)
+![image](https://user-images.githubusercontent.com/101285339/220986820-e9412887-df07-4f5c-864c-5dd3f4a4a4ee.png)
+![image](https://user-images.githubusercontent.com/101285339/220986868-7fb176d3-a472-4b86-ae36-d4c4be8b4063.png)
+![image](https://user-images.githubusercontent.com/101285339/220987216-1fc9b907-9dba-46c6-bf0f-d4040001ef57.png)
+![image](https://user-images.githubusercontent.com/101285339/220987246-b436401c-921d-455a-b407-2a7f6ac5609a.png)
+![image](https://user-images.githubusercontent.com/101285339/220987297-a18f7aab-a88e-437c-83a0-29177ad38384.png)
+![image](https://user-images.githubusercontent.com/101285339/220987341-7ccef7b8-5f39-419b-9b8a-d2870868d2b5.png)
+![image](https://user-images.githubusercontent.com/101285339/220987379-44f0c838-b919-40bc-af2b-e4c9aadde41d.png)
+![image](https://user-images.githubusercontent.com/101285339/220987423-9d9c5179-9a1d-4003-a90f-75ac2c3dc973.png)
+![image](https://user-images.githubusercontent.com/101285339/220987450-5a763199-b5db-4da5-9053-91b340ccd07a.png)
+![image](https://user-images.githubusercontent.com/101285339/220987529-148dbcee-7246-4a41-b510-d09d98444bee.png)
+![image](https://user-images.githubusercontent.com/101285339/220987554-ff662cc6-d6b9-4e31-a071-30d6483876f5.png)
+![image](https://user-images.githubusercontent.com/101285339/220987598-18e232f5-da2c-46a2-abe6-5a66a19c5aa6.png)
+![image](https://user-images.githubusercontent.com/101285339/220987618-a75c9c77-3607-4393-8ad7-fb640dc03c42.png)
+![image](https://user-images.githubusercontent.com/101285339/220987650-24fbb622-ad46-433a-89c6-05ab7b8df0b4.png)
+![image](https://user-images.githubusercontent.com/101285339/220987688-d83235e6-6c0f-4b63-b0f9-5a951552932c.png)
+![image](https://user-images.githubusercontent.com/101285339/220987720-f56f259d-4575-4ea1-90f0-7e18cd95ea01.png)
+![image](https://user-images.githubusercontent.com/101285339/220987755-41cf35a6-8bae-49eb-ae4a-1be9085e7048.png)
+![image](https://user-images.githubusercontent.com/101285339/220987788-20cdadbc-a2b7-459e-93c9-02baa6f59d74.png)
